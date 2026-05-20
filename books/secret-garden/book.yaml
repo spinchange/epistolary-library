@@ -1,0 +1,11 @@
+id: secret-garden
+title: The Secret Garden
+author: Frances Hodgson Burnett
+year: "1911"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/ebooks/113.txt.utf-8
+description: Frances Hodgson Burnett's classic novel of recovery and transformation, rendered as one HTML page per chapter with sequential navigation.

@@ -13,6 +13,7 @@ This repository stores:
 - `lady-susan` — Jane Austen, `epistolary` profile
 - `chaptered-sample` — short demo novella, `chaptered` profile
 - `tom-sawyer` — Mark Twain, public-domain `chaptered` profile
+- `secret-garden` — Frances Hodgson Burnett, public-domain `chaptered` profile
 
 ## Local build
 
