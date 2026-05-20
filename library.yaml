@@ -1,5 +1,5 @@
 title: Epistolary Library
-description: Public-domain epistolary fiction plus a small chaptered demo, rendered as linked static HTML reading editions.
+description: Public-domain epistolary fiction and chaptered novels, rendered as linked static HTML reading editions.
 base_url: ""
 books_dir: books
 output_dir: dist

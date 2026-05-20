@@ -1,0 +1,11 @@
+id: tom-sawyer
+title: The Adventures of Tom Sawyer
+author: Mark Twain
+year: "1876"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/files/74/74-0.txt
+description: Mark Twain's classic American novel, rendered as one HTML page per chapter with sequential navigation.

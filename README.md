@@ -12,6 +12,7 @@ This repository stores:
 
 - `lady-susan` — Jane Austen, `epistolary` profile
 - `chaptered-sample` — short demo novella, `chaptered` profile
+- `tom-sawyer` — Mark Twain, public-domain `chaptered` profile
 
 ## Local build
 
@@ -61,3 +62,14 @@ It:
 - installs the engine
 - builds `dist/`
 - uploads the static site to GitHub Pages
+
+## Git identity hygiene
+
+This repo includes a `.mailmap` so tools that honor mailmap normalize the old `cduffy@ranchcryogenics.com` identity to `spinchange@gmail.com`.
+
+To pin the repo-local author identity for future commits:
+
+```bash
+git config user.name 'Chris Duffy'
+git config user.email 'spinchange@gmail.com'
+```
