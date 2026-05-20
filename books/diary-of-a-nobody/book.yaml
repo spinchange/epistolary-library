@@ -1,0 +1,11 @@
+id: diary-of-a-nobody
+title: The Diary of a Nobody
+author: George Grossmith and Weedon Grossmith
+year: "1892"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/files/1026/1026-0.txt
+description: George and Weedon Grossmith's comic diary novel, rendered chapter-by-chapter while preserving each chapter's authorial synopsis.
