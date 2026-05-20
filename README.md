@@ -16,6 +16,7 @@ This repository stores:
 - `secret-garden` — Frances Hodgson Burnett, public-domain `chaptered` profile
 - `diary-of-a-nobody` — George and Weedon Grossmith, public-domain `chaptered` profile with authorial chapter synopses preserved
 - `humphry-clinker` — Tobias Smollett, public-domain `epistolary` profile using direct Gutenberg `To ...` letter headers
+- `clarissa` — Samuel Richardson, public-domain `epistolary` profile normalized from Project Gutenberg's nine-volume English edition
 
 ## Local build
 

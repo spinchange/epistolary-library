@@ -1,0 +1,11 @@
+id: clarissa
+title: Clarissa Harlowe; or, the History of a Young Lady
+author: Samuel Richardson
+year: "1748"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/ebooks/9296
+description: Samuel Richardson's epistolary novel, normalized from Project Gutenberg's nine-volume English edition into a single sequential reading text.
