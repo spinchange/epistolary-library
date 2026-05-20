@@ -1,0 +1,11 @@
+id: lady-susan
+title: Lady Susan
+author: Jane Austen
+year: "1871"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: regency-paper
+source_url: https://www.gutenberg.org/cache/epub/946/pg946.txt
+description: Jane Austen's epistolary novella, rendered as one HTML page per letter with sequential navigation.
