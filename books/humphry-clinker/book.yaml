@@ -1,0 +1,11 @@
+id: humphry-clinker
+title: The Expedition of Humphry Clinker
+author: Tobias Smollett
+year: "1771"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/files/2160/2160-0.txt
+description: Tobias Smollett's comic epistolary novel, rendered as one HTML page per letter using Gutenberg's direct "To ..." letter headers.
