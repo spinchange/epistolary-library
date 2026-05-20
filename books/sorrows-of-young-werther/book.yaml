@@ -1,0 +1,11 @@
+id: sorrows-of-young-werther
+title: The Sorrows of Young Werther
+author: J.W. von Goethe
+year: "1774"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/files/2527/2527-0.txt
+description: Goethe's novel of emotional obsession and collapse, rendered as a sequential reading edition from Project Gutenberg's two-book text plus the editor's closing narration.

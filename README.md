@@ -17,6 +17,7 @@ This repository stores:
 - `diary-of-a-nobody` — George and Weedon Grossmith, public-domain `chaptered` profile with authorial chapter synopses preserved
 - `humphry-clinker` — Tobias Smollett, public-domain `epistolary` profile using direct Gutenberg `To ...` letter headers
 - `clarissa` — Samuel Richardson, public-domain `epistolary` profile normalized from Project Gutenberg's nine-volume English edition
+- `sorrows-of-young-werther` — J.W. von Goethe, public-domain `chaptered` profile using Gutenberg's two-book structure plus the editor's closing section
 
 ## Local build
 
