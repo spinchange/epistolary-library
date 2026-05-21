@@ -1,0 +1,11 @@
+id: self-made-merchant
+title: Letters from a Self-Made Merchant to His Son
+author: George Horace Lorimer
+year: "1902"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/21959/pg21959.txt
+description: George Horace Lorimer's comic epistolary novel, rendered as one HTML page per letter from the Project Gutenberg plaintext.
