@@ -22,6 +22,7 @@ This repository stores:
 - `sorrows-of-young-werther` — J.W. von Goethe, public-domain `chaptered` profile using Gutenberg's two-book structure plus the editor's closing section
 - `notes-from-the-underground` — Fyodor Dostoyevsky, public-domain `chaptered` profile using Gutenberg's two-part structure
 - `adolphe` — Benjamin Constant, public-domain French `chaptered` profile with appendix sections preserved
+- `frankenstein` — Mary Wollstonecraft Shelley, public-domain `chaptered` profile for *Frankenstein; or, the Modern Prometheus*, preserving Walton's opening letters alongside the numbered chapters
 
 ## Local build
 

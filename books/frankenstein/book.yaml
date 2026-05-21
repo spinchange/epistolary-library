@@ -1,0 +1,11 @@
+id: frankenstein
+title: Frankenstein; or, the Modern Prometheus
+author: Mary Wollstonecraft Shelley
+year: "1818"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/84/pg84.txt
+description: Mary Shelley's frame-novel of scientific ambition and ruin, rendered as a sequential reading edition that preserves Walton's opening letters before Victor Frankenstein's numbered chapters.
