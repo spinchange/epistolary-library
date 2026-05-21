@@ -1,0 +1,11 @@
+id: notes-from-the-underground
+title: Notes from the Underground
+author: Fyodor Dostoyevsky
+year: "1864"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/files/600/600-0.txt
+description: Dostoyevsky's two-part novella, rendered as a sequential reading edition from Project Gutenberg's Part I / Part II text.
