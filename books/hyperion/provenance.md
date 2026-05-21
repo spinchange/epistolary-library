@@ -1,6 +1,6 @@
 # Hyperion provenance
 
-This scaffold uses the Internet Archive DJVU plaintext for *Hyperion, or the Hermit in Greece* by Friedrich Hölderlin, in Howard Gaskill's English translation.
+This book is normalized as a derivative of the Internet Archive DJVU plaintext OCR for *Hyperion, or the Hermit in Greece* by Friedrich Hölderlin, in Howard Gaskill's English translation.
 
 ## Source
 
@@ -8,15 +8,19 @@ This scaffold uses the Internet Archive DJVU plaintext for *Hyperion, or the Her
 - Book landing page: https://archive.org/details/859a1313-7b02-4c66-8010-dbe533c4412a
 - Publisher / edition context referenced in the file itself: Open Book Publishers, 2019
 
-## Current scaffold policy
+## Normalization policy
 
-- Store the downloaded plaintext OCR as `source.txt`.
-- Treat the source as `plain-txt` rather than `gutenberg-txt`; no Gutenberg wrapper stripping is assumed.
-- Parse letters with `hyperion-letters-v1`, which targets headings shaped like `Hyperion to Bellarmin [I]`.
-- Preserve the raw OCR text for now rather than attempting editorial cleanup during scaffold creation.
+- Fetch the single Archive.org DJVU plaintext source.
+- Trim table-of-contents/front-matter OCR noise by starting at the first real letter heading followed by prose.
+- Stop before the OCR'd `Afterword` / `Atterword` back matter.
+- Drop running headers, running book/volume labels, `Continued`, and stray page-number artifacts.
+- Rebuild the letter sequence with canonical headings renumbered by encounter order rather than trusting OCR numerals.
+- Preserve the cleaned novel text as a normalized derivative of the Internet Archive DJVU plaintext OCR, not as a verbatim dump of the raw OCR stream.
 
-## Known caveats
+## Script
 
-- The plaintext includes substantial front matter, licensing text, and OCR noise.
-- Roman-numeral heading OCR is not perfectly clean in the raw file (for example, one early heading appears as `[IT]`).
-- This scaffold verifies that the work can build as a real book entry, but it is not yet a fully normalized scholarly edition.
+Regenerate `source.txt` with:
+
+```bash
+python scripts/normalize_hyperion.py
+```
