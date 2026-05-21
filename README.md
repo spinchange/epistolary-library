@@ -16,6 +16,7 @@ This repository stores:
 - `clarissa` — Samuel Richardson, public-domain `epistolary` profile normalized from Project Gutenberg's nine-volume English edition
 - `pamela` — Samuel Richardson, public-domain `epistolary` profile using Gutenberg `LETTER I` headings plus uppercase salutation lines
 - `letters-of-a-portuguese-nun` — Guilleragues, public-domain `epistolary` profile using Gutenberg `LETTER I` headings plus a global `FROM ... TO ...` correspondent title block
+- `hyperion` — Friedrich Hölderlin, `epistolary` profile using a plain-text Hyperion-specific parser for `Hyperion to Bellarmin [I]` headings
 - `sorrows-of-young-werther` — J.W. von Goethe, public-domain `chaptered` profile using Gutenberg's two-book structure plus the editor's closing section
 - `notes-from-the-underground` — Fyodor Dostoyevsky, public-domain `chaptered` profile using Gutenberg's two-part structure
 - `adolphe` — Benjamin Constant, public-domain French `chaptered` profile with appendix sections preserved

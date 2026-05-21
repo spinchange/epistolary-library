@@ -1,0 +1,11 @@
+id: hyperion
+title: Hyperion, or the Hermit in Greece
+author: Friedrich Hölderlin
+year: "1819"
+source_file: source.txt
+source_format: plain-txt
+profile: epistolary
+parser: hyperion-letters-v1
+theme: classic-paper
+source_url: https://archive.org/download/859a1313-7b02-4c66-8010-dbe533c4412a/859a1313-7b02-4c66-8010-dbe533c4412a_djvu.txt
+description: Hölderlin's epistolary novel in Howard Gaskill's 2019 English translation, scaffolded from the Internet Archive plain-text OCR with Hyperion-specific letter-heading parsing.
