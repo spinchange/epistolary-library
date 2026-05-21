@@ -1,0 +1,11 @@
+id: adolphe
+title: Adolphe
+author: Benjamin Constant
+year: "1816"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/13861/pg13861.txt
+description: Benjamin Constant's French novella, rendered from Project Gutenberg with chapter and appendix sections preserved.

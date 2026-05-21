@@ -15,8 +15,10 @@ This repository stores:
 - `humphry-clinker` — Tobias Smollett, public-domain `epistolary` profile using direct Gutenberg `To ...` letter headers
 - `clarissa` — Samuel Richardson, public-domain `epistolary` profile normalized from Project Gutenberg's nine-volume English edition
 - `pamela` — Samuel Richardson, public-domain `epistolary` profile using Gutenberg `LETTER I` headings plus uppercase salutation lines
+- `letters-of-a-portuguese-nun` — Guilleragues, public-domain `epistolary` profile using Gutenberg `LETTER I` headings plus a global `FROM ... TO ...` correspondent title block
 - `sorrows-of-young-werther` — J.W. von Goethe, public-domain `chaptered` profile using Gutenberg's two-book structure plus the editor's closing section
 - `notes-from-the-underground` — Fyodor Dostoyevsky, public-domain `chaptered` profile using Gutenberg's two-part structure
+- `adolphe` — Benjamin Constant, public-domain French `chaptered` profile with appendix sections preserved
 
 ## Local build
 

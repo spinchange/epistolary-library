@@ -1,0 +1,11 @@
+id: letters-of-a-portuguese-nun
+title: The Letters of a Portuguese Nun
+author: Gabriel-Joseph de Lavergne, vicomte de Guilleragues
+year: "1669"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/57403/pg57403.txt
+description: The five-letter Portuguese-Nun sequence from Project Gutenberg, rendered as one HTML page per letter.
