@@ -1,0 +1,11 @@
+id: pamela
+title: Pamela, or Virtue Rewarded
+author: Samuel Richardson
+year: "1740"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/6124/pg6124.txt
+description: Samuel Richardson's epistolary novel, rendered as one HTML page per letter from the Project Gutenberg plaintext.
