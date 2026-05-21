@@ -1,0 +1,11 @@
+id: dracula
+title: Dracula
+author: Bram Stoker
+year: "1897"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/345/pg345.txt
+description: Bram Stoker's documentary gothic novel, rendered as a chaptered reading edition that preserves the chapter-level journal, diary, letter, and newspaper headings from the Gutenberg text.

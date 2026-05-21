@@ -23,6 +23,7 @@ This repository stores:
 - `notes-from-the-underground` — Fyodor Dostoyevsky, public-domain `chaptered` profile using Gutenberg's two-part structure
 - `adolphe` — Benjamin Constant, public-domain French `chaptered` profile with appendix sections preserved
 - `frankenstein` — Mary Wollstonecraft Shelley, public-domain `chaptered` profile for *Frankenstein; or, the Modern Prometheus*, preserving Walton's opening letters alongside the numbered chapters
+- `dracula` — Bram Stoker, public-domain `chaptered` profile for *Dracula*, preserving the chapter-level documentary headings across journals, diaries, letters, and newspaper clippings
 
 ## Local build
 
