@@ -1,0 +1,11 @@
+id: eloisa
+title: Eloisa; or, A Series of Original Letters
+author: Jean-Jacques Rousseau
+year: "1761"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/76639/pg76639.txt
+description: Jean-Jacques Rousseau's epistolary novel, rendered as one HTML page per letter from the Project Gutenberg plaintext, including the inline correspondent headings used throughout the English translation.

@@ -16,6 +16,7 @@ This repository stores:
 - `clarissa` — Samuel Richardson, public-domain `epistolary` profile normalized from Project Gutenberg's nine-volume English edition
 - `pamela` — Samuel Richardson, public-domain `epistolary` profile using Gutenberg `LETTER I` headings plus uppercase salutation lines
 - `evelina` — Fanny Burney, public-domain `epistolary` profile using Gutenberg `LETTER I` headings plus mixed-case correspondent/location lines and inline continuation notes
+- `eloisa` — Jean-Jacques Rousseau, public-domain `epistolary` profile using Gutenberg `Letter I. To Eloisa.`-style inline correspondent headings from the 1761 English translation
 - `self-made-merchant` — George Horace Lorimer, public-domain `epistolary` profile using Roman-numeral letter headings plus datelines and italicized salutations
 - `letters-of-a-portuguese-nun` — Guilleragues, public-domain `epistolary` profile using Gutenberg `LETTER I` headings plus a global `FROM ... TO ...` correspondent title block
 - `hyperion` — Friedrich Hölderlin, `epistolary` profile using a plain-text Hyperion-specific parser for `Hyperion to Bellarmin [I]` headings
