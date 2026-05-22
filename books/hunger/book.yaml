@@ -1,0 +1,11 @@
+id: hunger
+title: Hunger
+author: Knut Hamsun
+year: "1890"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/8387/pg8387.txt
+description: Knut Hamsun's four-part novel, rendered as a sequential reading edition from Project Gutenberg's Part I / Part IV text.
