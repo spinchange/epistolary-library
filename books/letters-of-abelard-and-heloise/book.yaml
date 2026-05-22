@@ -1,0 +1,11 @@
+id: letters-of-abelard-and-heloise
+title: Letters of Abelard and Heloise
+author: Peter Abelard and Héloïse
+year: "1782"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/35977/pg35977.txt
+description: The six core letters of Abelard and Heloise, rendered as an epistolary reading edition from Project Gutenberg's 1782 English collection, including the prefatory historical account's transition into the letter sequence.

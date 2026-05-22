@@ -19,6 +19,7 @@ This repository stores:
 - `eloisa` — Jean-Jacques Rousseau, public-domain `epistolary` profile using Gutenberg `Letter I. To Eloisa.`-style inline correspondent headings from the 1761 English translation
 - `self-made-merchant` — George Horace Lorimer, public-domain `epistolary` profile using Roman-numeral letter headings plus datelines and italicized salutations
 - `letters-of-a-portuguese-nun` — Guilleragues, public-domain `epistolary` profile using Gutenberg `LETTER I` headings plus a global `FROM ... TO ...` correspondent title block
+- `letters-of-abelard-and-heloise` — Peter Abelard and Héloïse, public-domain `epistolary` profile using Gutenberg `LETTER I.` headings plus italic correspondent lines including mixed-case `_Abelard_ to _Heloise._`
 - `hyperion` — Friedrich Hölderlin, `epistolary` profile using a plain-text Hyperion-specific parser for `Hyperion to Bellarmin [I]` headings
 - `sorrows-of-young-werther` — J.W. von Goethe, public-domain `chaptered` profile using Gutenberg's two-book structure plus the editor's closing section
 - `notes-from-the-underground` — Fyodor Dostoyevsky, public-domain `chaptered` profile using Gutenberg's two-part structure
