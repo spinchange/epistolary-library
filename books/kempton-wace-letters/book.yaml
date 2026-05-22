@@ -1,0 +1,11 @@
+id: kempton-wace-letters
+title: The Kempton-Wace Letters
+author: Jack London and Anna Strunsky
+year: "1903"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/31422/pg31422.txt
+description: Jack London and Anna Strunsky's epistolary novel, rendered as one HTML page per letter from the Project Gutenberg plaintext.

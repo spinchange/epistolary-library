@@ -27,6 +27,7 @@ This repository stores:
 - `frankenstein` — Mary Wollstonecraft Shelley, public-domain `chaptered` profile for *Frankenstein; or, the Modern Prometheus*, preserving Walton's opening letters alongside the numbered chapters
 - `dracula` — Bram Stoker, public-domain `chaptered` profile for *Dracula*, preserving the chapter-level documentary headings across journals, diaries, letters, and newspaper clippings
 - `hunger` — Knut Hamsun, public-domain `chaptered` profile for *Hunger*, preserving Gutenberg's four-part structure without inventing spurious book-level sections from wrapped prose
+- `kempton-wace-letters` — Jack London and Anna Strunsky, public-domain `epistolary` profile for *The Kempton-Wace Letters*, using Roman-numeral letter sections followed by uppercase `FROM ... TO ...` correspondent headers
 
 ## Local build
 
