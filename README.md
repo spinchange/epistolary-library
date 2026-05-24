@@ -30,6 +30,7 @@ This repository stores:
 - `kempton-wace-letters` — Jack London and Anna Strunsky, public-domain `epistolary` profile for *The Kempton-Wace Letters*, using Roman-numeral letter sections followed by uppercase `FROM ... TO ...` correspondent headers
 - `fanny-hill` — John Cleland, public-domain `epistolary` profile for *Memoirs of Fanny Hill*, using Gutenberg `LETTER THE FIRST` / `LETTER THE SECOND` headings plus `Madam,` salutation lines
 - `emily-montague` — Frances Brooke, public-domain `epistolary` profile for *The History of Emily Montague*, using Gutenberg numeric `LETTER 1.` headings plus mixed correspondent, dateline, and lowercase `To ...` letter openings
+- `aurelian` — William Ware, public-domain `epistolary` profile for *Aurelian; or, Rome in the Third Century*, using Gutenberg `LETTER I.` headings plus uppercase `FROM PISO TO FAUSTA.` correspondent lines
 - `love-letters-between-a-nobleman-and-his-sister` — Aphra Behn, public-domain epistolary novel added under the `chaptered` profile to preserve Gutenberg's three-part framing and embedded correspondence in *Love-Letters Between a Nobleman and His Sister*
 
 ## Local build

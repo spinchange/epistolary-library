@@ -1,0 +1,11 @@
+id: aurelian
+title: Aurelian; or, Rome in the Third Century
+author: William Ware
+year: "1838"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/ebooks/21953.txt.utf-8
+description: William Ware's historical epistolary novel rendered as one HTML page per letter from the Project Gutenberg plaintext.
