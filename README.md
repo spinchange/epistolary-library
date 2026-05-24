@@ -31,6 +31,7 @@ This repository stores:
 - `fanny-hill` — John Cleland, public-domain `epistolary` profile for *Memoirs of Fanny Hill*, using Gutenberg `LETTER THE FIRST` / `LETTER THE SECOND` headings plus `Madam,` salutation lines
 - `emily-montague` — Frances Brooke, public-domain `epistolary` profile for *The History of Emily Montague*, using Gutenberg numeric `LETTER 1.` headings plus mixed correspondent, dateline, and lowercase `To ...` letter openings
 - `aurelian` — William Ware, public-domain `epistolary` profile for *Aurelian; or, Rome in the Third Century*, using Gutenberg `LETTER I.` headings plus uppercase `FROM PISO TO FAUSTA.` correspondent lines
+- `dangerous-connections` — Choderlos de Laclos, public-domain `epistolary` profile for *Dangerous Connections, v. 1, 2, 3, 4*, using Gutenberg `LETTER I.` headings plus split italic correspondent headers while skipping the prefatory quoted letter excerpt before the real sequence
 - `love-letters-between-a-nobleman-and-his-sister` — Aphra Behn, public-domain epistolary novel added under the `chaptered` profile to preserve Gutenberg's three-part framing and embedded correspondence in *Love-Letters Between a Nobleman and His Sister*
 
 ## Local build

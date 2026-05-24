@@ -1,0 +1,11 @@
+id: dangerous-connections
+title: Dangerous Connections, v. 1, 2, 3, 4
+author: Choderlos de Laclos
+year: "1782"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/ebooks/45512.txt.utf-8
+description: Choderlos de Laclos's epistolary novel rendered as one HTML page per letter from the Project Gutenberg plaintext.
