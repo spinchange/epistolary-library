@@ -1,0 +1,11 @@
+id: love-letters-between-a-nobleman-and-his-sister
+title: Love-Letters Between a Nobleman and His Sister
+author: Aphra Behn
+year: "1684"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://gutenberg.org/cache/epub/8409/pg8409.txt
+description: Aphra Behn's epistolary novel rendered under the chaptered profile to preserve Gutenberg's three-part framing and embedded letters.
