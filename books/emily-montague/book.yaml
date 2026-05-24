@@ -1,0 +1,11 @@
+id: emily-montague
+title: The History of Emily Montague
+author: Frances Brooke
+year: "1769"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/cache/epub/16300/pg16300.txt
+description: Frances Brooke's epistolary novel rendered as one HTML page per letter.

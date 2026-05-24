@@ -29,6 +29,7 @@ This repository stores:
 - `hunger` — Knut Hamsun, public-domain `chaptered` profile for *Hunger*, preserving Gutenberg's four-part structure without inventing spurious book-level sections from wrapped prose
 - `kempton-wace-letters` — Jack London and Anna Strunsky, public-domain `epistolary` profile for *The Kempton-Wace Letters*, using Roman-numeral letter sections followed by uppercase `FROM ... TO ...` correspondent headers
 - `fanny-hill` — John Cleland, public-domain `epistolary` profile for *Memoirs of Fanny Hill*, using Gutenberg `LETTER THE FIRST` / `LETTER THE SECOND` headings plus `Madam,` salutation lines
+- `emily-montague` — Frances Brooke, public-domain `epistolary` profile for *The History of Emily Montague*, using Gutenberg numeric `LETTER 1.` headings plus mixed correspondent, dateline, and lowercase `To ...` letter openings
 
 ## Local build
 
