@@ -1,0 +1,15 @@
+id: persian-letters
+title: Persian Letters
+author: Montesquieu
+year: "1721"
+source_file: source.txt
+source_format: plain-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+description: A future published reading edition of Montesquieu's Persian Letters with translator's note front matter.
+front_matter:
+  - id: translators-note
+    title: Translator's Note
+    source_file: translator-note.md
+    source_format: markdown

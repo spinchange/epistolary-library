@@ -4,22 +4,17 @@
 
 The `translator-note-draft.md` file is intended to become **front matter for a future published Persian Letters edition**, not a standalone research page on the current site.
 
-## Current limitation
+## Current state
 
 As of this note:
 
-- `epistolary-library` publishes only generated book pages under `dist/books/<book-id>/...`
-- `book-engine` builds the site from `library.yaml` plus `books/*/book.yaml`
-- the current schema has no support for standalone front-matter pages such as:
-  - translator's note
-  - introduction
-  - editorial note
-  - afterword
-- files under `docs/research/` are **not** copied into the published `dist/` site
+- `epistolary-library` still publishes only generated book pages under `dist/books/<book-id>/...`
+- `book-engine` now supports optional book-level `front_matter` entries rendered before the main section sequence
+- files under `docs/research/` are still **not** copied into the published `dist/` site on their own
 
 ## Implication
 
-The translator's note now lives in the right repository and version history, but it will not appear on the public site until a future Persian Letters edition exists **and** the publication path for front matter is implemented.
+The translator's note can now be published cleanly **once a real Persian Letters book entry exists**. What still does not happen automatically is publication of research notes directly from `docs/research/`.
 
 ## Intended eventual placement
 
@@ -54,23 +49,22 @@ Supporting editorial rationale:
 If/when the Persian Letters edition is promoted from research corpus to site content:
 
 1. add a real `books/persian-letters/` entry
-2. extend `book-engine` schema/model to support optional front matter pages for a book
-3. render those pages in the book TOC before the main section sequence
-4. ingest `translator-note-draft.md` as the initial published front-matter page
+2. copy or derive a publishable `translator-note.md` into that book directory
+3. declare it under `front_matter` in `book.yaml`
+4. build and verify that `translators-note.html` appears before Letter I in the book TOC
 5. keep the research version in `docs/research/` as the editorial working copy unless the edition workflow gets its own source directory
 
-## Minimal engine feature implied
+## Supported schema path
 
-A future engine implementation would likely need something like optional book-level front matter, for example conceptually:
+The engine now supports book-level front matter using this shape:
 
 ```yaml
 front_matter:
   - id: translators-note
     title: Translator's Note
     source_file: translator-note.md
+    source_format: markdown
 ```
-
-This is **not** implemented yet; it is only the conceptual target.
 
 ## Status
 
