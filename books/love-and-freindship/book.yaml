@@ -1,0 +1,11 @@
+id: love-and-freindship
+title: Love and Freindship [sic]
+author: Jane Austen
+year: "1790"
+source_file: source.txt
+source_format: plain-txt
+profile: epistolary
+parser: gutenberg-letters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/ebooks/1212.txt.utf-8
+description: Jane Austen's juvenile epistolary novella, normalized from the Project Gutenberg anthology plaintext to isolate the Love and Freindship section for the current epistolary pipeline.
