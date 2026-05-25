@@ -1,4 +1,4 @@
-# Letter LXXXV comparison scaffold
+# Letter LXXXV comparison draft
 
 - Letter number: 85
 - French source: French Tome I
@@ -13,11 +13,60 @@
 
 ## Fresh translation draft
 
-_TODO: translate the French letter into fresh contemporary English._
+### Heading
+**Letter LXXXV**
+
+**Rica to \*\*\*.**
+
+### Translation
+Yesterday I went to the Invalides. If I were a prince, I would like just as much to have founded that establishment as to have won three battles. Everywhere one finds the hand of a great monarch. I believe it is the most respectable place on earth.
+
+What a sight it is to see gathered in one place all those victims of the fatherland who breathe only to defend it, and who, feeling they still have the same heart though not the same strength, complain only of being unable to sacrifice themselves for it once more.
+
+What could be more admirable than to see these weakened warriors, in this retreat, observing a discipline as exact as if they were compelled by the presence of an enemy, seeking their last satisfaction in this image of war, and dividing heart and mind between the duties of religion and those of the military art?
+
+I would like the names of those who die for their country to be written down and preserved in the temples, in registers that would be like the source of glory and nobility.
+
+*Paris, the 15th day of the moon of Gemmadi I, 1715.*
 
 ## Comparison against Davidson
 
-_TODO: compare the fresh translation against the Davidson version in `english.clean.txt`._
+### Davidson text summary
+Davidson reproduces the letter's praise of the Invalides and its blend of military admiration, pity, and civic reverence. The sense is close throughout.
+
+### Main differences
+- **`lieu` vs `institution`**
+  - Fresh translation keeps the simpler `place`.
+  - Davidson calls it the most respectable `institution`.
+  - That is sensible English, but the French is more concrete.
+
+- **Victims of the fatherland**
+  - French: `victimes de la patrie`
+  - Fresh translation keeps the sacrificial force of `victims`.
+  - Davidson's `those who have suffered for their country` is smoother but softer.
+
+- **`image de la guerre` and `art militaire`**
+  - Fresh translation preserves `image of war` and `military art`.
+  - Davidson prefers `semblance of war` and `their profession`.
+  - His version is idiomatic, but less exact in military vocabulary.
+
+- **Closing civic image**
+  - French: `la gloire et la noblesse`
+  - Fresh translation: `glory and nobility`
+  - Davidson: `glory and honour`
+  - `Nobility` matters because the sentence imagines a public archive generating rank as well as fame.
+
+### Tone comparison
+- **French original**: elevated, patriotic, and compressed.
+- **Fresh translation**: keeps the civic solemnity with minimal embellishment.
+- **Davidson**: respectful and fluent, but slightly more generalizing.
+
+### OCR / cleanup notes
+- This is one of the cleaner English files in the range.
+- No major OCR corruption obstructs the comparison, though the addressee line still reflects normalized OCR punctuation.
+
+## Working conclusion
+Davidson is largely reliable here. The main gains from a fresh translation are the stronger sacrificial vocabulary and the retention of Montesquieu's exact civic and military imagery.
 
 ## Initial observations
 - French heading: `LETTRE LXXXV.`

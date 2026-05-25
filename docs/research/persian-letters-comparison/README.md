@@ -66,7 +66,7 @@ This means comparison must be done **by letter number**, not by volume boundary.
 
 ## Per-letter scaffold status
 
-A full per-letter corpus now exists under `letters/` for **all 161 letters**.
+A full per-letter corpus now exists under `letters/` for **all 161 letters**, and every letter folder now includes a completed first-pass translation/comparison draft.
 
 Key files:
 - `letters/manifest.yaml` — full manifest with counts and line ranges
@@ -80,20 +80,21 @@ Each per-letter folder now contains:
 - `french.clean.txt` — dewrapped French paragraphs
 - `english.txt` — raw English OCR excerpt
 - `english.clean.txt` — mechanically cleaned English OCR excerpt
-- `metadata.yaml` — provenance plus English heading-match diagnostics
-- `comparison.md` — placeholder for translation/comparison work
+- `metadata.yaml` — provenance plus English heading-match diagnostics and draft-completion status
+- `comparison.md` — completed first-pass translation/comparison draft
 
 Current corpus summary:
 - total letters scaffolded: `161`
 - English heading matches: `161 exact`, `0 fuzzy`
+- completed comparison drafts: `161 / 161`
 
 Current limitation:
 - the English clean files are meaningfully better than the raw OCR, but they are still OCR-derived comparison text rather than a fully corrected edition
-- some paragraph joins and residual OCR blemishes still need human review during translation/comparison
+- some paragraph joins, boundary spills, and residual OCR blemishes still need human review during later editorial refinement
 
 ## Concrete next pass
 
 The next useful implementation step is:
-- begin actual translation/comparison drafts from the cleaned per-letter folders
-- prioritize a pilot batch such as `I`, `II`, `XXVII`, `LXXVI`, `XCVII`, and `CII`
-- correct any residual OCR trouble spots in-place as they are encountered during real comparison work
+- review the completed corpus for the highest-value cleanup targets
+- prioritize letters with known witness problems such as boundary spillover, date discrepancies, title mismatches, or heavy footnote intrusion
+- if desired, turn the best first-pass drafts into a polished second-pass edition/comparison set

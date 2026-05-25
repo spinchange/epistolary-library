@@ -6,8 +6,8 @@ status:
   french_cleaned: true
   english_extracted: true
   english_cleaned: true
-  fresh_translation_started: false
-  comparison_notes_started: false
+  fresh_translation_started: true
+  comparison_notes_started: true
 alignment:
   compare_by_letter_number: true
   caution: "French and English physical volume boundaries differ; use letter number as the primary key."
