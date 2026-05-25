@@ -36,6 +36,7 @@ This repository stores:
 - `love-letters-between-a-nobleman-and-his-sister` — Aphra Behn, public-domain epistolary novel added under the `chaptered` profile to preserve Gutenberg's three-part framing and embedded correspondence in *Love-Letters Between a Nobleman and His Sister*
 - `wieland` — Charles Brockden Brown, public-domain documentary/frame-gothic novel added under the `chaptered` profile because Gutenberg exposes it as a clean `Chapter I`–`Chapter XXVII` sequence
 - `life-tangles` — Agnes Giberne, public-domain journal-shaped novel added under the `chaptered` profile because Gutenberg exposes it as a clean `CHAPTER I.`–`CHAPTER XXIII.` sequence with dated journal material embedded inside chapters
+- `persian-letters` — Montesquieu, provisional `epistolary` edition scaffold built from the cleaned Davidson English witness with a published `Translator's Note` front-matter page, pending a future full translation-led edition
 
 ## Local build
 
