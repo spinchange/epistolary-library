@@ -70,9 +70,8 @@ Davidson captures the broad argument well: Christian religion often appears disp
 - **Davidson**: generally accurate, but slightly more devotional in register and less crisp in the satire of inconsistency.
 
 ### OCR / cleanup notes
-- The English clean text preserves a broken line split at `de- / bate`.
-- It also contains a Browning quotation, page marker `•75`, and printer / library matter that clearly do not belong to the letter itself.
-- These intrusions make Letter LXXV one of the noisier English witnesses in this run.
+- Second-pass cleanup rejoined the broken `debate` line, removed the Browning quotation carryover and page marker, and trimmed the printer / library matter that had spilled in after the date.
+- The clean witness is now usable without those obvious paratextual interruptions.
 
 ## Working conclusion
 Letter LXXV is a good example of Davidson's usual strengths and weaknesses: he conveys the argument, but his version is filtered through a smoother Victorian idiom and is currently obscured by substantial OCR and paratextual contamination.

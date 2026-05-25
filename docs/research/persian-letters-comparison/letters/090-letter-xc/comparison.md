@@ -71,12 +71,12 @@ Davidson preserves both the philosophical opening on glory and the embedded spee
 - **Davidson**: strong overall, though slightly more oratorical than the French.
 
 ### OCR / cleanup notes
-- `090-letter-xc/english.clean.txt` begins with the spilled-over end of Letter LXXXIX before the actual start of Letter XC.
-- The raw OCR still preserves the missing title line `USBEK TO IBBEN, AT SMYRNA.` even though the cleaned metadata title is blank.
-- Once that contamination is ignored, Davidson's Letter XC is readable.
+- The second cleanup pass removed the leading spillover from Letter LXXXIX and restored the title line `USBEK TO IBBEN, AT SMYRNA.` to `090-letter-xc/english.clean.txt`.
+- Residual OCR roughness remains in places (`keeping constantly`, `stupifies`, punctuation noise), but the witness now begins at the proper boundary and is readable as an independent letter.
+- The metadata title is now aligned with the repaired clean excerpt.
 
 ## Working conclusion
-Davidson is quite usable here, but the current clean witness requires caution because of the preceding spillover from Letter LXXXIX. At the lexical level, the main gains of a fresh translation lie in keeping `goût`, `honor`, and the civic-republican force of the argument more exact.
+Davidson is quite usable here, and after second-pass boundary repair the clean English witness is much closer to editorially serviceable. At the lexical level, the main gains of a fresh translation still lie in keeping `goût`, honor, and the civic-republican force of the argument more exact.
 
 ## Initial observations
 - French heading: `LETTRE XC.`

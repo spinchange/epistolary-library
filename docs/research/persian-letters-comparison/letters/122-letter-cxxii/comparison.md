@@ -113,8 +113,8 @@ Davidson preserves the broad architecture of this long letter: climatic unsuitab
 - **Davidson**: often quite good sentence by sentence, but the surviving text is compromised by cleanup issues and occasional Victorian smoothing.
 
 ### OCR / cleanup notes
-- The English clean text is heavily contaminated by note markers and debris, including `1` intrusions, an inserted page number `101`, and broken note material in multiple paragraphs.
-- Because of that, this letter is one of the strongest candidates in the set for later manual correction against the scan or a better text witness.
+- Second-pass cleanup removed repeated note markers, a stray page number, and a modern editorial intrusion that had broken the colonial-demographic argument.
+- The witness is much cleaner now, though it still deserves comparison against a better scan if this letter becomes editorially central.
 
 ## Working conclusion
 Letter CXXII is now fully drafted, but it remains one of the messiest English witnesses in the run. Davidson's translation is broadly useful, yet any close editorial use of it should be checked against the underlying source because OCR noise and footnote carryover repeatedly interrupt the text.

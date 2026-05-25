@@ -59,12 +59,12 @@ Davidson preserves the letter's satirical movement from Parisian equality, to th
 - **Davidson**: fluent, though partially obscured here by damaged transmission.
 
 ### OCR / cleanup notes
-- `089-letter-lxxxix/english.clean.txt` is truncated after the first two paragraphs.
-- The remainder of Davidson's translation appears at the beginning of `090-letter-xc/english.clean.txt` and in the raw OCR for Letter XC.
-- This is therefore a genuine cross-file contamination point in the current clean corpus.
+- The second cleanup pass restored the missing latter half of Davidson's text to `089-letter-lxxxix/english.clean.txt`.
+- The English witness is now self-contained, though it remains an OCR-derived text rather than a fully corrected edition.
+- Minor orthographic/OCR blemishes still survive, but the previous cross-file contamination with Letter XC has been removed.
 
 ## Working conclusion
-The underlying Davidson translation is solid, but the current cleaned witness for Letter LXXXIX is materially incomplete. A completed comparison note is especially useful here because the English evidence survives only by combining this folder with the spillover into Letter XC.
+The underlying Davidson translation is solid, and after second-pass boundary repair the English witness for Letter LXXXIX is now materially complete and usable on its own.
 
 ## Initial observations
 - French heading: `LETTRE LXXXIX.`

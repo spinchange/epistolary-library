@@ -15,10 +15,10 @@ french:
   source_label: "French Tome II"
   source_kind: "Project Gutenberg"
   source_file: "raw/french_tome_2_pg33856.txt"
-  line_start: 87
-  line_end: 122
+  line_start: 1606
+  line_end: 1645
   heading: "LETTRE LXXXIX."
-  title: "USBEK A RHÉDI."
+  title: "USBEK TO RHEDI, AT VENICE."
   subtitle: "A Venise."
 english:
   source_label: "English Volume II"

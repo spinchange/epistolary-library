@@ -15,10 +15,10 @@ french:
   source_label: "French Tome II"
   source_kind: "Project Gutenberg"
   source_file: "raw/french_tome_2_pg33856.txt"
-  line_start: 2781
-  line_end: 2905
+  line_start: 5226
+  line_end: 5395
   heading: "LETTRE CXXX."
-  title: "RICA A ***."
+  title: "Rica to * * *"
   subtitle: ""
 english:
   source_label: "English Volume II"

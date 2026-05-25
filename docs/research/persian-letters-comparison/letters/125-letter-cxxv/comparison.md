@@ -71,12 +71,12 @@ Davidson preserves the general satirical design: princely generosity to courtier
 - **Davidson**: often good where readable, but badly compromised here by page-break damage and OCR contamination.
 
 ### Notable OCR / edition notes
-- This is one of the dirtiest English clean excerpts in the batch.
-- The title line and opening sentence are missing from `125-letter-cxxv/english.clean.txt` and instead survive at the tail of `124-letter-cxxiv/english.txt`.
-- The clean text contains obvious page debris such as `•°5`, `p io6`, and a broken phrase around `their conversation`.
+- The second cleanup pass restored the title line and opening sentence to `125-letter-cxxv/english.clean.txt`, so the witness is no longer dependent on spillover from Letter CXXIV.
+- The English clean text still carries some residual wording noise around the court-ladies sentence, reflecting page damage and OCR uncertainty in the underlying witness.
+- Even after repair, this remains a letter worth checking against the raw OCR for exact editorial use.
 
 ## Working conclusion
-Letter CXXV badly needs the fresh draft because the isolated English clean excerpt is materially incomplete. Davidson's underlying translation may be usable, but the present file state is not reliable enough on its own.
+Letter CXXV is much more usable after second-pass boundary repair, but the English witness still shows local corruption in the satirical decree. Davidson's underlying translation may be used, provided the court-ladies passage is treated with caution.
 
 ## Initial observations
 - French heading: `LETTRE CXXV.`

@@ -103,8 +103,8 @@ Davidson carries the full arc of the inset narrative effectively: childhood atta
 - **Davidson**: often powerful and readable, but more ornamented in register and more Victorian in emotional coloring.
 
 ### OCR / cleanup notes
-- The English clean text for this letter still carries substantial OCR and page debris, including stray page numbers, footnote insertions, and broken fragments such as `I5l` and `*57`.
-- The underlying alignment remains recoverable, but this is a clear candidate for later manual cleanup against a better scan or edition.
+- Second-pass cleanup removed the most disruptive footnote numbers, running-header fragments, and page debris from the English clean witness.
+- The letter is now substantially more readable, but it is still long enough, and textually ambitious enough, that a later check against a better scan would still be worthwhile.
 
 ## Working conclusion
 Letter LXVII is one of the most complex comparison cases in this range. Davidson preserves the narrative sequence and much of the force, but the fresh translation keeps closer to the French letter's mixture of scandalous directness, doctrinal argument, and comparatively plain narrative pressure.

@@ -15,10 +15,10 @@ french:
   source_label: "French Tome II"
   source_kind: "Project Gutenberg"
   source_file: "raw/french_tome_2_pg33856.txt"
-  line_start: 2906
-  line_end: 3011
+  line_start: 5407
+  line_end: 5549
   heading: "LETTRE CXXXI."
-  title: "RHÉDI A RICA."
+  title: "Rhedi to Rica, at Paris."
   subtitle: "A Paris."
 english:
   source_label: "English Volume II"

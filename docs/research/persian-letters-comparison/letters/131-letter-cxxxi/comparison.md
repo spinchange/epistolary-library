@@ -71,12 +71,12 @@ Davidson preserves the broad political sweep of the letter: republics arise hist
 - **Davidson**: often very good, but the surviving English witness is materially compromised and sometimes more expansive than the French.
 
 ### Notable OCR / edition notes
-- The English clean text for this letter is seriously mis-bounded.
-- Its title and opening paragraphs appear at the end of `130-letter-cxxx/english.clean.txt`, while `131-letter-cxxxi/english.clean.txt` begins in the middle of a sentence.
-- As an isolated file, `131-letter-cxxxi/english.clean.txt` is incomplete and should not be trusted without checking the spillover from Letter CXXX.
+- The second cleanup pass restored the title and opening paragraphs to `131-letter-cxxxi/english.clean.txt`, so the file is no longer mid-sentence at the start.
+- A former footnote intrusion in the Asia Minor / rampart passage has been removed from the clean witness.
+- Even after repair, this remains a letter worth checking against the raw OCR when quoting the political list of royal limitations.
 
 ## Working conclusion
-Letter CXXXI required a French-first reconstruction because the English clean excerpt is split across files. Davidson's translation remains useful, but only after boundary repair and with attention to at least one dropped political clause.
+Letter CXXXI no longer requires a French-first reconstruction merely to establish its English boundary. Davidson's translation is now materially usable as a self-contained witness, though it still benefits from comparison against the French for dropped or softened political clauses.
 
 ## Initial observations
 - French heading: `LETTRE CXXXI.`

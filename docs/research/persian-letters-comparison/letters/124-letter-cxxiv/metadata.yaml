@@ -15,10 +15,10 @@ french:
   source_label: "French Tome II"
   source_kind: "Project Gutenberg"
   source_file: "raw/french_tome_2_pg33856.txt"
-  line_start: 2423
-  line_end: 2455
+  line_start: 4740
+  line_end: 4777
   heading: "LETTRE CXXIV."
-  title: "USBEK AU MOLLAK MÉHÉMET ALI,"
+  title: "USBEK TO THE MOLLAH MEHEMET ALI, GUARDIAN OF the Three Tombs, at Koum."
   subtitle: "Gardien des trois tombeaux"
 english:
   source_label: "English Volume II"

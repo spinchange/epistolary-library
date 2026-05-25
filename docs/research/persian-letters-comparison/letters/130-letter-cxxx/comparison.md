@@ -85,11 +85,11 @@ Davidson keeps the main satirical architecture of the letter: the newsmongers ar
 - **Davidson**: often very effective, but more Anglicized in diction and more vulnerable here to OCR damage.
 
 ### Notable OCR / edition notes
-- The English clean text carries heavy page debris, footnote intrusions, and repeated header material in the middle of the letter.
-- It also appends the opening of Letter CXXXI after the date line, so the clean file overruns its own boundary.
+- The English clean text still carries heavy page debris and footnote intrusions in the middle of the letter.
+- The second cleanup pass removed the overrun into Letter CXXXI, so `130-letter-cxxx/english.clean.txt` now ends at its proper dateline.
 
 ## Working conclusion
-Letter CXXX is well served by a fresh draft. Davidson's translation is lively, but the present English witness is noisy enough that a close, French-led comparison is clearly preferable.
+Letter CXXX is well served by a fresh draft. Davidson's translation is lively, and after second-pass boundary repair the English witness is cleaner at the level of letter boundaries, even if its interior OCR noise still warrants caution.
 
 ## Initial observations
 - French heading: `LETTRE CXXX.`

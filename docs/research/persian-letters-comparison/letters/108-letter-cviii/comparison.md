@@ -66,8 +66,8 @@ Davidson carries the main satire well: the young king's future is shaped by the 
 - **Davidson**: effective overall, but somewhat softened in the sharper sexual and administrative sarcasm.
 
 ### OCR / cleanup notes
-- The English clean text contains a major footnote intrusion in the middle of the second paragraph, where the note about Louis XV breaks the sentence beginning `Under a young prince...`.
-- That passage should be checked against the raw excerpt for any close work on wording.
+- Second-pass cleanup removed the Louis XV footnote intrusion and repaired several obvious OCR slips in the surrounding paragraph.
+- The political argument now reads continuously, though close citation should still defer to the raw witness or a better scan if textual exactitude matters.
 
 ## Working conclusion
 Davidson preserves the broad political satire of Letter CVIII, but a fresh translation is useful for the harsher edges of Montesquieu's analysis: women do not merely influence power, they route it, retail it, and profit from it.

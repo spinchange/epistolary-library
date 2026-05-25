@@ -84,7 +84,7 @@ Davidson's version is powerful and generally faithful. He preserves Roxane's def
 
 ### OCR / cleanup notes
 - The French clean text includes substantial end-of-volume material immediately after the letter, beginning with `FIN DU TOME SECOND` and then notes and index matter.
-- The English clean text likewise runs straight into the volume `INDEX` after the dateline.
+- The second cleanup pass trimmed the English clean text so it no longer runs into `THE END.` and the volume `INDEX`.
 - For comparison, only the letter proper at the top of each file should be used.
 
 ## Working conclusion

@@ -57,8 +57,8 @@ Davidson is broadly close here. He keeps the polemical structure of the letter: 
 
 ### Notable OCR / edition notes
 - The English clean text is mostly stable for this letter.
-- Its main editorial issue is boundary drift: the final line of the clean excerpt already spills into the opening sentence of Letter CXXV.
-- The raw OCR also preserves page debris and footnote matter around the body of the letter.
+- The second cleanup pass removed the final line's spillover into the opening of Letter CXXV, so the letter now ends cleanly at its dateline.
+- The raw OCR still preserves page debris and footnote matter around the body of the letter.
 
 ## Working conclusion
 This is a relatively straightforward Davidson letter. The main value of the fresh draft is tonal calibration: keeping the religious lament and the satirical political recoding without over-archaizing the English.

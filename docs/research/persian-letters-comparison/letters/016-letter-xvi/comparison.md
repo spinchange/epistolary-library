@@ -76,9 +76,8 @@ Davidson preserves the basic satirical movement of the letter, but the English c
 - **Davidson**: often understandable, but both OCR contamination and stylistic smoothing make the tone more reverent than the French.
 
 ### Notable OCR / edition notes
-- The English clean text is heavily contaminated by footnotes, especially in the Zulfiqar sentence and the `thirteenth imam` passage.
-- The opening title is split across lines and includes note markers (`the Three Tombs 1 at Koum`).
-- The phrase `night from day \ %` shows visible OCR/editorial corruption.
+- Second-pass cleanup removed the title-note carryover, the intrusive Zulfiqar and `thirteenth imam` footnote matter, and the trailing note residue from the clean witness.
+- The underlying Davidson wording is now readable as a continuous letter, though it remains a cleaned OCR witness rather than a checked diplomatic text.
 
 ## Working conclusion
 Letter XVI is one of the clearest cases where edition and OCR problems interfere with literary comparison. Even so, Davidson can still be seen smoothing important images, especially the Quranic `white thread` / `black thread` line and the clustered imperatives about purifying and nourishing the soul.

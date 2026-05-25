@@ -15,10 +15,10 @@ french:
   source_label: "French Tome II"
   source_kind: "Project Gutenberg"
   source_file: "raw/french_tome_2_pg33856.txt"
-  line_start: 123
-  line_end: 202
+  line_start: 1648
+  line_end: 1758
   heading: "LETTRE XC."
-  title: "USBEK A IBBEN."
+  title: "USBEK TO IBBEN, AT SMYRNA."
   subtitle: "A Smyrne."
 english:
   source_label: "English Volume II"
