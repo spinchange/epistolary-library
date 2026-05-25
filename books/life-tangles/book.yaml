@@ -1,0 +1,11 @@
+id: life-tangles
+title: "Life-tangles : or, The journal of Rhoda Frith"
+author: Agnes Giberne
+year: "1896"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/ebooks/78624.txt.utf-8
+description: Agnes Giberne's journal-shaped novel, included under the chaptered profile because Gutenberg exposes it as a clean Chapter I-XXIII sequence with embedded dated journal entries inside each chapter.

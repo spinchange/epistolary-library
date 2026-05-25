@@ -34,6 +34,8 @@ This repository stores:
 - `dangerous-connections` — Choderlos de Laclos, public-domain `epistolary` profile for *Dangerous Connections, v. 1, 2, 3, 4*, using Gutenberg `LETTER I.` headings plus split italic correspondent headers while skipping the prefatory quoted letter excerpt before the real sequence
 - `love-and-freindship` — Jane Austen, public-domain `epistolary` profile for *Love and Freindship [sic]*, normalized from Gutenberg's anthology plaintext and parsed via mixed `LETTER the FIRST` / `LETTER 2nd` / `LETTER the 9th` headings
 - `love-letters-between-a-nobleman-and-his-sister` — Aphra Behn, public-domain epistolary novel added under the `chaptered` profile to preserve Gutenberg's three-part framing and embedded correspondence in *Love-Letters Between a Nobleman and His Sister*
+- `wieland` — Charles Brockden Brown, public-domain documentary/frame-gothic novel added under the `chaptered` profile because Gutenberg exposes it as a clean `Chapter I`–`Chapter XXVII` sequence
+- `life-tangles` — Agnes Giberne, public-domain journal-shaped novel added under the `chaptered` profile because Gutenberg exposes it as a clean `CHAPTER I.`–`CHAPTER XXIII.` sequence with dated journal material embedded inside chapters
 
 ## Local build
 

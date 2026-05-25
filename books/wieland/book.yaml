@@ -1,0 +1,11 @@
+id: wieland
+title: "Wieland; Or, The Transformation: An American Tale"
+author: Charles Brockden Brown
+year: "1798"
+source_file: source.txt
+source_format: gutenberg-txt
+profile: chaptered
+parser: gutenberg-chapters-v1
+theme: classic-paper
+source_url: https://www.gutenberg.org/ebooks/792.txt.utf-8
+description: Charles Brockden Brown's early American gothic novel, included under the chaptered profile because Gutenberg exposes it as a clean Chapter I-XXVII framed narrative rather than a top-level letter sequence.
