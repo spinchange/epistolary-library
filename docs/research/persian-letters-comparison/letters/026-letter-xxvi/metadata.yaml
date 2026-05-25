@@ -1,0 +1,42 @@
+letter_number: 26
+roman: XXVI
+slug: 026-letter-xxvi
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 2410
+  line_end: 2511
+  heading: "LETTRE XXVI."
+  title: "USBEK A ROXANE."
+  subtitle: "Au sérail d'Ispahan."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 4107
+  line_end: 4250
+  heading: "Letter XXVI."
+  title: "Usbek to Roxana, at the Seraglio at Ispahan."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XXVI."
+  heading_token_raw: "XXVI."
+  heading_token_normalized: "XXVI"
+outputs:
+  french_raw_file: "letters/026-letter-xxvi/french.txt"
+  french_clean_file: "letters/026-letter-xxvi/french.clean.txt"
+  english_raw_file: "letters/026-letter-xxvi/english.txt"
+  english_clean_file: "letters/026-letter-xxvi/english.clean.txt"
+  comparison_file: "letters/026-letter-xxvi/comparison.md"

@@ -1,0 +1,41 @@
+sources:
+  french:
+    tome_1:
+      title: "Lettres persanes, tome I"
+      provider: "Project Gutenberg"
+      ebook_no: 30268
+      item_url: "https://www.gutenberg.org/ebooks/30268"
+      plain_text_url: "https://www.gutenberg.org/cache/epub/30268/pg30268.txt"
+      local_file: "raw/french_tome_1_pg30268.txt"
+      letter_range: "I-LXXXVIII"
+    tome_2:
+      title: "Lettres persanes, tome II"
+      provider: "Project Gutenberg"
+      ebook_no: 33856
+      item_url: "https://www.gutenberg.org/ebooks/33856"
+      plain_text_url: "https://www.gutenberg.org/ebooks/33856.txt.utf-8"
+      local_file: "raw/french_tome_2_pg33856.txt"
+      letter_range: "LXXXIX-CLXI"
+  english:
+    volume_1:
+      title: "Persian letters /"
+      translator: "John Davidson"
+      provider: "Internet Archive"
+      item_id: "32882019070534-persianletters"
+      item_url: "https://archive.org/details/32882019070534-persianletters"
+      ocr_text_url: "https://archive.org/download/32882019070534-persianletters/HighRes_32882019070534_djvu.txt"
+      local_file: "raw/english_volume_1_archive_ocr.txt"
+      probable_letter_range: "I-LXXV"
+    volume_2:
+      title: "Persian letters /"
+      translator: "John Davidson"
+      provider: "Internet Archive"
+      item_id: "32882019070518-persianletters"
+      item_url: "https://archive.org/details/32882019070518-persianletters"
+      ocr_text_url: "https://archive.org/download/32882019070518-persianletters/HighRes_32882019070518_djvu.txt"
+      local_file: "raw/english_volume_2_archive_ocr.txt"
+      probable_letter_range: "LXXVI-CLXI"
+notes:
+  - "French and English volume boundaries do not align; compare by letter number."
+  - "Archive OCR includes title pages, contents, page numbers, and OCR noise."
+  - "If OCR cleanup becomes too messy, prefer PDF or ABBYY-derived extraction for English."

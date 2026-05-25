@@ -1,0 +1,42 @@
+letter_number: 138
+roman: CXXXVIII
+slug: 138-letter-cxxxviii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 3387
+  line_end: 3452
+  heading: "LETTRE CXXXVIII."
+  title: "RICA A IBBEN."
+  subtitle: "A Smyrne."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 6118
+  line_end: 6217
+  heading: "Letter CXXXVIII."
+  title: "Rica to Ibben, at Smyrna."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CXXXVIII."
+  heading_token_raw: "CXXXVIII."
+  heading_token_normalized: "CXXXVIII"
+outputs:
+  french_raw_file: "letters/138-letter-cxxxviii/french.txt"
+  french_clean_file: "letters/138-letter-cxxxviii/french.clean.txt"
+  english_raw_file: "letters/138-letter-cxxxviii/english.txt"
+  english_clean_file: "letters/138-letter-cxxxviii/english.clean.txt"
+  comparison_file: "letters/138-letter-cxxxviii/comparison.md"

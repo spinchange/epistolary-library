@@ -1,0 +1,42 @@
+letter_number: 103
+roman: CIII
+slug: 103-letter-ciii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 905
+  line_end: 995
+  heading: "LETTRE CIII."
+  title: "USBEK A IBBEN."
+  subtitle: "A Smyrne."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 2702
+  line_end: 2826
+  heading: "Letter CIII."
+  title: "USBEK TO IBBEN, AT SMYRNA."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter ClII."
+  heading_token_raw: "ClII."
+  heading_token_normalized: "CIII"
+outputs:
+  french_raw_file: "letters/103-letter-ciii/french.txt"
+  french_clean_file: "letters/103-letter-ciii/french.clean.txt"
+  english_raw_file: "letters/103-letter-ciii/english.txt"
+  english_clean_file: "letters/103-letter-ciii/english.clean.txt"
+  comparison_file: "letters/103-letter-ciii/comparison.md"

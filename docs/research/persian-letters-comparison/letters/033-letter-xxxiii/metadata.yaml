@@ -1,0 +1,42 @@
+letter_number: 33
+roman: XXXIII
+slug: 033-letter-xxxiii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 2832
+  line_end: 2889
+  heading: "LETTRE XXXIII."
+  title: "USBEK A RHÉDI."
+  subtitle: "A Venise."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 4717
+  line_end: 4795
+  heading: "Letter XXXIII."
+  title: "USBEK TO RHEDI, AT VENICE."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XXXIII."
+  heading_token_raw: "XXXIII."
+  heading_token_normalized: "XXXIII"
+outputs:
+  french_raw_file: "letters/033-letter-xxxiii/french.txt"
+  french_clean_file: "letters/033-letter-xxxiii/french.clean.txt"
+  english_raw_file: "letters/033-letter-xxxiii/english.txt"
+  english_clean_file: "letters/033-letter-xxxiii/english.clean.txt"
+  comparison_file: "letters/033-letter-xxxiii/comparison.md"

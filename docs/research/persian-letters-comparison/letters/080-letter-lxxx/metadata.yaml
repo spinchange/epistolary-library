@@ -1,0 +1,42 @@
+letter_number: 80
+roman: LXXX
+slug: 080-letter-lxxx
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 5944
+  line_end: 5975
+  heading: "LETTRE LXXX."
+  title: "LE GRAND EUNUQUE A USBEK."
+  subtitle: "A Paris."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 870
+  line_end: 909
+  heading: "Letter LXXX."
+  title: "The chief black Eunuch to Usbek, at Paris."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter LXXX."
+  heading_token_raw: "LXXX."
+  heading_token_normalized: "LXXX"
+outputs:
+  french_raw_file: "letters/080-letter-lxxx/french.txt"
+  french_clean_file: "letters/080-letter-lxxx/french.clean.txt"
+  english_raw_file: "letters/080-letter-lxxx/english.txt"
+  english_clean_file: "letters/080-letter-lxxx/english.clean.txt"
+  comparison_file: "letters/080-letter-lxxx/comparison.md"

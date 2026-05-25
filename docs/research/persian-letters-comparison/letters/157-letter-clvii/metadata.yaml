@@ -1,0 +1,42 @@
+letter_number: 157
+roman: CLVII
+slug: 157-letter-clvii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 4839
+  line_end: 4881
+  heading: "LETTRE CLVII."
+  title: "ZACHI A USBEK."
+  subtitle: "A Paris."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 8203
+  line_end: 8264
+  heading: "Letter CLVII."
+  title: "Zachi to Usbek, at Paris."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CL VII>"
+  heading_token_raw: "CL VII>"
+  heading_token_normalized: "CLVII"
+outputs:
+  french_raw_file: "letters/157-letter-clvii/french.txt"
+  french_clean_file: "letters/157-letter-clvii/french.clean.txt"
+  english_raw_file: "letters/157-letter-clvii/english.txt"
+  english_clean_file: "letters/157-letter-clvii/english.clean.txt"
+  comparison_file: "letters/157-letter-clvii/comparison.md"

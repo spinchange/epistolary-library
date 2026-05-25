@@ -1,0 +1,42 @@
+letter_number: 28
+roman: XXVIII
+slug: 028-letter-xxviii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 2561
+  line_end: 2641
+  heading: "LETTRE XXVIII."
+  title: "RICA A ***."
+  subtitle: ""
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 4311
+  line_end: 4437
+  heading: "Letter XXVIII."
+  title: "Rica to * * *."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XXVIII."
+  heading_token_raw: "XXVIII."
+  heading_token_normalized: "XXVIII"
+outputs:
+  french_raw_file: "letters/028-letter-xxviii/french.txt"
+  french_clean_file: "letters/028-letter-xxviii/french.clean.txt"
+  english_raw_file: "letters/028-letter-xxviii/english.txt"
+  english_clean_file: "letters/028-letter-xxviii/english.clean.txt"
+  comparison_file: "letters/028-letter-xxviii/comparison.md"

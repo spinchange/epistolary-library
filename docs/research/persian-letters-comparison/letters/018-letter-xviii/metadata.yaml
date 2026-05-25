@@ -1,0 +1,42 @@
+letter_number: 18
+roman: XVIII
+slug: 018-letter-xviii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 1929
+  line_end: 2009
+  heading: "LETTRE XVIII."
+  title: "MÉHÉMET ALI, SERVITEUR DES PROPHÈTES,"
+  subtitle: "A USBEK."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 3410
+  line_end: 3526
+  heading: "Letter XVIII."
+  title: "Mollah Mehemet Ali, Servant of the Prophets, TO UsBEK, AT ERZEROUM."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XVIII."
+  heading_token_raw: "XVIII."
+  heading_token_normalized: "XVIII"
+outputs:
+  french_raw_file: "letters/018-letter-xviii/french.txt"
+  french_clean_file: "letters/018-letter-xviii/french.clean.txt"
+  english_raw_file: "letters/018-letter-xviii/english.txt"
+  english_clean_file: "letters/018-letter-xviii/english.clean.txt"
+  comparison_file: "letters/018-letter-xviii/comparison.md"

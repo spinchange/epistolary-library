@@ -1,0 +1,42 @@
+letter_number: 29
+roman: XXIX
+slug: 029-letter-xxix
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 2642
+  line_end: 2726
+  heading: "LETTRE XXIX."
+  title: "RICCA A IBBEN."
+  subtitle: "A Smyrne."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 4438
+  line_end: 4577
+  heading: "Letter XXIX."
+  title: "Rica to Ibben, at Smyrna."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XXIX."
+  heading_token_raw: "XXIX."
+  heading_token_normalized: "XXIX"
+outputs:
+  french_raw_file: "letters/029-letter-xxix/french.txt"
+  french_clean_file: "letters/029-letter-xxix/french.clean.txt"
+  english_raw_file: "letters/029-letter-xxix/english.txt"
+  english_clean_file: "letters/029-letter-xxix/english.clean.txt"
+  comparison_file: "letters/029-letter-xxix/comparison.md"

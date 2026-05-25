@@ -1,0 +1,42 @@
+letter_number: 119
+roman: CXIX
+slug: 119-letter-cxix
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 2081
+  line_end: 2115
+  heading: "LETTRE CXIX."
+  title: "USBEK AU MÊME."
+  subtitle: ""
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 4288
+  line_end: 4328
+  heading: "Letter CXIX."
+  title: "USBEK TO THE SAME."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CXIX."
+  heading_token_raw: "CXIX."
+  heading_token_normalized: "CXIX"
+outputs:
+  french_raw_file: "letters/119-letter-cxix/french.txt"
+  french_clean_file: "letters/119-letter-cxix/french.clean.txt"
+  english_raw_file: "letters/119-letter-cxix/english.txt"
+  english_clean_file: "letters/119-letter-cxix/english.clean.txt"
+  comparison_file: "letters/119-letter-cxix/comparison.md"

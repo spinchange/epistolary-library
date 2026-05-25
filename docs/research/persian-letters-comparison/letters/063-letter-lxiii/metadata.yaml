@@ -1,0 +1,42 @@
+letter_number: 63
+roman: LXIII
+slug: 063-letter-lxiii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 4687
+  line_end: 4740
+  heading: "LETTRE LXIII."
+  title: "RICA A USBEK."
+  subtitle: "A ***."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 7385
+  line_end: 7458
+  heading: "Letter LXIII."
+  title: "Rica to Usbek, at * * *."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter LXIII."
+  heading_token_raw: "LXIII."
+  heading_token_normalized: "LXIII"
+outputs:
+  french_raw_file: "letters/063-letter-lxiii/french.txt"
+  french_clean_file: "letters/063-letter-lxiii/french.clean.txt"
+  english_raw_file: "letters/063-letter-lxiii/english.txt"
+  english_clean_file: "letters/063-letter-lxiii/english.clean.txt"
+  comparison_file: "letters/063-letter-lxiii/comparison.md"

@@ -1,0 +1,42 @@
+letter_number: 71
+roman: LXXI
+slug: 071-letter-lxxi
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 5434
+  line_end: 5462
+  heading: "LETTRE LXXI."
+  title: "USBEK A ZÉLIS."
+  subtitle: ""
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 8472
+  line_end: 8510
+  heading: "Letter LXXI."
+  title: "UsBEK TO ZEL1S."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter LXXI."
+  heading_token_raw: "LXXI."
+  heading_token_normalized: "LXXI"
+outputs:
+  french_raw_file: "letters/071-letter-lxxi/french.txt"
+  french_clean_file: "letters/071-letter-lxxi/french.clean.txt"
+  english_raw_file: "letters/071-letter-lxxi/english.txt"
+  english_clean_file: "letters/071-letter-lxxi/english.clean.txt"
+  comparison_file: "letters/071-letter-lxxi/comparison.md"

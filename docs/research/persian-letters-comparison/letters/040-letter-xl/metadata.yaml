@@ -1,0 +1,42 @@
+letter_number: 40
+roman: XL
+slug: 040-letter-xl
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 3257
+  line_end: 3288
+  heading: "LETTRE XL."
+  title: "USBEK A IBBEN."
+  subtitle: "A Smyrne."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 5344
+  line_end: 5383
+  heading: "Letter XL."
+  title: "XJSBEK TO IBBEN, AT SMYRNA."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XL."
+  heading_token_raw: "XL."
+  heading_token_normalized: "XL"
+outputs:
+  french_raw_file: "letters/040-letter-xl/french.txt"
+  french_clean_file: "letters/040-letter-xl/french.clean.txt"
+  english_raw_file: "letters/040-letter-xl/english.txt"
+  english_clean_file: "letters/040-letter-xl/english.clean.txt"
+  comparison_file: "letters/040-letter-xl/comparison.md"

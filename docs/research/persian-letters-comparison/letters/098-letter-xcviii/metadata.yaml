@@ -1,0 +1,42 @@
+letter_number: 98
+roman: XCVIII
+slug: 098-letter-xcviii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 607
+  line_end: 696
+  heading: "LETTRE XCVIII."
+  title: "USBEK A HASSEIN, DERVIS DE LA MONTAGNE DE JARON."
+  subtitle: ""
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 2308
+  line_end: 2427
+  heading: "Letter XCVIII."
+  title: "USBEK TO HASSIM, DERVISH OF THE MOUNTAIN OF Jaron."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XCVIII."
+  heading_token_raw: "XCVIII."
+  heading_token_normalized: "XCVIII"
+outputs:
+  french_raw_file: "letters/098-letter-xcviii/french.txt"
+  french_clean_file: "letters/098-letter-xcviii/french.clean.txt"
+  english_raw_file: "letters/098-letter-xcviii/english.txt"
+  english_clean_file: "letters/098-letter-xcviii/english.clean.txt"
+  comparison_file: "letters/098-letter-xcviii/comparison.md"

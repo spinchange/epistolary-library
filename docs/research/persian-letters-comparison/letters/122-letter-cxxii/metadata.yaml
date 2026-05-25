@@ -1,0 +1,42 @@
+letter_number: 122
+roman: CXXII
+slug: 122-letter-cxxii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 2212
+  line_end: 2353
+  heading: "LETTRE CXXII."
+  title: "USBEK AU MÊME."
+  subtitle: ""
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 4453
+  line_end: 4652
+  heading: "Letter CXXII."
+  title: "USBEK TO THE SAME."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CXXII."
+  heading_token_raw: "CXXII."
+  heading_token_normalized: "CXXII"
+outputs:
+  french_raw_file: "letters/122-letter-cxxii/french.txt"
+  french_clean_file: "letters/122-letter-cxxii/french.clean.txt"
+  english_raw_file: "letters/122-letter-cxxii/english.txt"
+  english_clean_file: "letters/122-letter-cxxii/english.clean.txt"
+  comparison_file: "letters/122-letter-cxxii/comparison.md"

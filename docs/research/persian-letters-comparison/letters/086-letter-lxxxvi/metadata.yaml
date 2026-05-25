@@ -1,0 +1,42 @@
+letter_number: 86
+roman: LXXXVI
+slug: 086-letter-lxxxvi
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 6251
+  line_end: 6343
+  heading: "LETTRE LXXXVI."
+  title: "USBEK A MIRZA."
+  subtitle: "A Ispahan."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 1302
+  line_end: 1434
+  heading: "Letter LXXXVI."
+  title: "USBEK TO MlRZA, AT ISPAHAN."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter LXXXVI . 1"
+  heading_token_raw: "LXXXVI ."
+  heading_token_normalized: "LXXXVI"
+outputs:
+  french_raw_file: "letters/086-letter-lxxxvi/french.txt"
+  french_clean_file: "letters/086-letter-lxxxvi/french.clean.txt"
+  english_raw_file: "letters/086-letter-lxxxvi/english.txt"
+  english_clean_file: "letters/086-letter-lxxxvi/english.clean.txt"
+  comparison_file: "letters/086-letter-lxxxvi/comparison.md"

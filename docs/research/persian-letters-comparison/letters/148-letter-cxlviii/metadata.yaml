@@ -1,0 +1,42 @@
+letter_number: 148
+roman: CXLVIII
+slug: 148-letter-cxlviii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 4539
+  line_end: 4563
+  heading: "LETTRE CXLVIII."
+  title: "USBEK AU PREMIER EUNUQUE."
+  subtitle: "Au sérail d'Ispahan."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 7844
+  line_end: 7866
+  heading: "Letter CXLVIII."
+  title: "USBEK TO THE CHIEF EUNUCH, AT THE SERAGLIO AT Ispahan."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CXL VIII."
+  heading_token_raw: "CXL VIII."
+  heading_token_normalized: "CXLVIII"
+outputs:
+  french_raw_file: "letters/148-letter-cxlviii/french.txt"
+  french_clean_file: "letters/148-letter-cxlviii/french.clean.txt"
+  english_raw_file: "letters/148-letter-cxlviii/english.txt"
+  english_clean_file: "letters/148-letter-cxlviii/english.clean.txt"
+  comparison_file: "letters/148-letter-cxlviii/comparison.md"

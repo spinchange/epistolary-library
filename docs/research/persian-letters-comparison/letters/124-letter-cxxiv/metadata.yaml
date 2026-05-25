@@ -1,0 +1,42 @@
+letter_number: 124
+roman: CXXIV
+slug: 124-letter-cxxiv
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 2423
+  line_end: 2455
+  heading: "LETTRE CXXIV."
+  title: "USBEK AU MOLLAK MÉHÉMET ALI,"
+  subtitle: "Gardien des trois tombeaux"
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 4740
+  line_end: 4793
+  heading: "Letter CXXIV."
+  title: "USBEK TO THE MOLLAH MEHEMET ALI, GUARDIAN OF the Three Tombs, at Koum."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CXXIV."
+  heading_token_raw: "CXXIV."
+  heading_token_normalized: "CXXIV"
+outputs:
+  french_raw_file: "letters/124-letter-cxxiv/french.txt"
+  french_clean_file: "letters/124-letter-cxxiv/french.clean.txt"
+  english_raw_file: "letters/124-letter-cxxiv/english.txt"
+  english_clean_file: "letters/124-letter-cxxiv/english.clean.txt"
+  comparison_file: "letters/124-letter-cxxiv/comparison.md"

@@ -1,0 +1,42 @@
+letter_number: 8
+roman: VIII
+slug: 008-letter-viii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 1250
+  line_end: 1299
+  heading: "LETTRE VIII."
+  title: "USBEK A SON AMI RUSTAN."
+  subtitle: "A Ispahan."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 2426
+  line_end: 2497
+  heading: "Letter VIII."
+  title: "USBEK TO HIS FRIEND RuSTAN, AT ISPAHAN."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter VIII."
+  heading_token_raw: "VIII."
+  heading_token_normalized: "VIII"
+outputs:
+  french_raw_file: "letters/008-letter-viii/french.txt"
+  french_clean_file: "letters/008-letter-viii/french.clean.txt"
+  english_raw_file: "letters/008-letter-viii/english.txt"
+  english_clean_file: "letters/008-letter-viii/english.clean.txt"
+  comparison_file: "letters/008-letter-viii/comparison.md"

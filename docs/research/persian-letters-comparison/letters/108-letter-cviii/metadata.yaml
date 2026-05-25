@@ -1,0 +1,42 @@
+letter_number: 108
+roman: CVIII
+slug: 108-letter-cviii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 1308
+  line_end: 1374
+  heading: "LETTRE CVIII."
+  title: "RICA A IBBEN."
+  subtitle: "A Smyrne."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 3245
+  line_end: 3328
+  heading: "Letter CVIII."
+  title: "Rica to Ibben, at Smyrna."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CVIII."
+  heading_token_raw: "CVIII."
+  heading_token_normalized: "CVIII"
+outputs:
+  french_raw_file: "letters/108-letter-cviii/french.txt"
+  french_clean_file: "letters/108-letter-cviii/french.clean.txt"
+  english_raw_file: "letters/108-letter-cviii/english.txt"
+  english_clean_file: "letters/108-letter-cviii/english.clean.txt"
+  comparison_file: "letters/108-letter-cviii/comparison.md"

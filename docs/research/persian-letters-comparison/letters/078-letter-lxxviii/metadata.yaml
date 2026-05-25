@@ -1,0 +1,42 @@
+letter_number: 78
+roman: LXXVIII
+slug: 078-letter-lxxviii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 5732
+  line_end: 5871
+  heading: "LETTRE LXXVIII."
+  title: "RICA A USBEK."
+  subtitle: "A ***."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 581
+  line_end: 768
+  heading: "Letter LXXVIII."
+  title: "Rica to Usbek, at * # *."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter L XX VIII."
+  heading_token_raw: "L XX VIII."
+  heading_token_normalized: "LXXVIII"
+outputs:
+  french_raw_file: "letters/078-letter-lxxviii/french.txt"
+  french_clean_file: "letters/078-letter-lxxviii/french.clean.txt"
+  english_raw_file: "letters/078-letter-lxxviii/english.txt"
+  english_clean_file: "letters/078-letter-lxxviii/english.clean.txt"
+  comparison_file: "letters/078-letter-lxxviii/comparison.md"

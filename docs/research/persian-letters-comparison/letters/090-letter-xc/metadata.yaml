@@ -1,0 +1,42 @@
+letter_number: 90
+roman: XC
+slug: 090-letter-xc
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 123
+  line_end: 202
+  heading: "LETTRE XC."
+  title: "USBEK A IBBEN."
+  subtitle: "A Smyrne."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 1624
+  line_end: 1760
+  heading: "Letter XC."
+  title: ""
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "LETTER XC."
+  heading_token_raw: "XC."
+  heading_token_normalized: "XC"
+outputs:
+  french_raw_file: "letters/090-letter-xc/french.txt"
+  french_clean_file: "letters/090-letter-xc/french.clean.txt"
+  english_raw_file: "letters/090-letter-xc/english.txt"
+  english_clean_file: "letters/090-letter-xc/english.clean.txt"
+  comparison_file: "letters/090-letter-xc/comparison.md"

@@ -1,0 +1,42 @@
+letter_number: 115
+roman: CXV
+slug: 115-letter-cxv
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 1753
+  line_end: 1837
+  heading: "LETTRE CXV."
+  title: "USBEK AU MÊME."
+  subtitle: ""
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 3852
+  line_end: 3965
+  heading: "Letter CXV."
+  title: "Us BEK TO THE SAME."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CXV."
+  heading_token_raw: "CXV."
+  heading_token_normalized: "CXV"
+outputs:
+  french_raw_file: "letters/115-letter-cxv/french.txt"
+  french_clean_file: "letters/115-letter-cxv/french.clean.txt"
+  english_raw_file: "letters/115-letter-cxv/english.txt"
+  english_clean_file: "letters/115-letter-cxv/english.clean.txt"
+  comparison_file: "letters/115-letter-cxv/comparison.md"

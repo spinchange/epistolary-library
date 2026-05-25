@@ -1,0 +1,42 @@
+letter_number: 74
+roman: LXXIV
+slug: 074-letter-lxxiv
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 5529
+  line_end: 5574
+  heading: "LETTRE LXXIV."
+  title: "RICA A USBEK."
+  subtitle: "A ***."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 8628
+  line_end: 8682
+  heading: "Letter LXXIV."
+  title: "Usbek to Rica, at * * *."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter LXXIV."
+  heading_token_raw: "LXXIV."
+  heading_token_normalized: "LXXIV"
+outputs:
+  french_raw_file: "letters/074-letter-lxxiv/french.txt"
+  french_clean_file: "letters/074-letter-lxxiv/french.clean.txt"
+  english_raw_file: "letters/074-letter-lxxiv/english.txt"
+  english_clean_file: "letters/074-letter-lxxiv/english.clean.txt"
+  comparison_file: "letters/074-letter-lxxiv/comparison.md"

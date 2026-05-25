@@ -1,0 +1,42 @@
+letter_number: 55
+roman: LV
+slug: 055-letter-lv
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 4193
+  line_end: 4265
+  heading: "LETTRE LV."
+  title: "RICA A IBBEN."
+  subtitle: "A Smyrne."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 6694
+  line_end: 6804
+  heading: "Letter LV."
+  title: "Rica to Ibben, at Smyrna."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter L V."
+  heading_token_raw: "L V."
+  heading_token_normalized: "LV"
+outputs:
+  french_raw_file: "letters/055-letter-lv/french.txt"
+  french_clean_file: "letters/055-letter-lv/french.clean.txt"
+  english_raw_file: "letters/055-letter-lv/english.txt"
+  english_clean_file: "letters/055-letter-lv/english.clean.txt"
+  comparison_file: "letters/055-letter-lv/comparison.md"

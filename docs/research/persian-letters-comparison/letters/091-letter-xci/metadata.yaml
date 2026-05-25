@@ -1,0 +1,42 @@
+letter_number: 91
+roman: XCI
+slug: 091-letter-xci
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 203
+  line_end: 259
+  heading: "LETTRE XCI."
+  title: "USBEK AU MÊME."
+  subtitle: "A Smyrne."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 1761
+  line_end: 1841
+  heading: "Letter XCI."
+  title: "USBEK TO THE SAME, AT SMYRNA."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XCI."
+  heading_token_raw: "XCI."
+  heading_token_normalized: "XCI"
+outputs:
+  french_raw_file: "letters/091-letter-xci/french.txt"
+  french_clean_file: "letters/091-letter-xci/french.clean.txt"
+  english_raw_file: "letters/091-letter-xci/english.txt"
+  english_clean_file: "letters/091-letter-xci/english.clean.txt"
+  comparison_file: "letters/091-letter-xci/comparison.md"

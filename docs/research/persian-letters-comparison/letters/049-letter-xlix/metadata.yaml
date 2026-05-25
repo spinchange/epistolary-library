@@ -1,0 +1,42 @@
+letter_number: 49
+roman: XLIX
+slug: 049-letter-xlix
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 3817
+  line_end: 3854
+  heading: "LETTRE XLIX."
+  title: "RICA A USBEK."
+  subtitle: "A ***."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 6152
+  line_end: 6220
+  heading: "Letter XLIX."
+  title: "Rica to Usbek, at * * *."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XLIX."
+  heading_token_raw: "XLIX."
+  heading_token_normalized: "XLIX"
+outputs:
+  french_raw_file: "letters/049-letter-xlix/french.txt"
+  french_clean_file: "letters/049-letter-xlix/french.clean.txt"
+  english_raw_file: "letters/049-letter-xlix/english.txt"
+  english_clean_file: "letters/049-letter-xlix/english.clean.txt"
+  comparison_file: "letters/049-letter-xlix/comparison.md"

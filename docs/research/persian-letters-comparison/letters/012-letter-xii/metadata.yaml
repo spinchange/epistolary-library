@@ -1,0 +1,42 @@
+letter_number: 12
+roman: XII
+slug: 012-letter-xii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 1595
+  line_end: 1682
+  heading: "LETTRE XII."
+  title: "USBEK AU MÊME."
+  subtitle: "A Ispahan."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 2927
+  line_end: 3055
+  heading: "Letter XII."
+  title: "USBEK. TO THE SAME, AT ISPAHAN."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XII."
+  heading_token_raw: "XII."
+  heading_token_normalized: "XII"
+outputs:
+  french_raw_file: "letters/012-letter-xii/french.txt"
+  french_clean_file: "letters/012-letter-xii/french.clean.txt"
+  english_raw_file: "letters/012-letter-xii/english.txt"
+  english_clean_file: "letters/012-letter-xii/english.clean.txt"
+  comparison_file: "letters/012-letter-xii/comparison.md"

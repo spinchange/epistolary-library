@@ -1,0 +1,42 @@
+letter_number: 87
+roman: LXXXVII
+slug: 087-letter-lxxxvii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 6344
+  line_end: 6401
+  heading: "LETTRE LXXXVII."
+  title: "RICA A ***."
+  subtitle: ""
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 1435
+  line_end: 1525
+  heading: "Letter LXXXVII."
+  title: "Rica to * * *"
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter LXXX VII."
+  heading_token_raw: "LXXX VII."
+  heading_token_normalized: "LXXXVII"
+outputs:
+  french_raw_file: "letters/087-letter-lxxxvii/french.txt"
+  french_clean_file: "letters/087-letter-lxxxvii/french.clean.txt"
+  english_raw_file: "letters/087-letter-lxxxvii/english.txt"
+  english_clean_file: "letters/087-letter-lxxxvii/english.clean.txt"
+  comparison_file: "letters/087-letter-lxxxvii/comparison.md"

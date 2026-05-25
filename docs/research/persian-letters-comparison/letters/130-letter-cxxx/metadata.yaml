@@ -1,0 +1,42 @@
+letter_number: 130
+roman: CXXX
+slug: 130-letter-cxxx
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 2781
+  line_end: 2905
+  heading: "LETTRE CXXX."
+  title: "RICA A ***."
+  subtitle: ""
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 5226
+  line_end: 5440
+  heading: "Letter CXXX."
+  title: "Rica to * * *"
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CXXX."
+  heading_token_raw: "CXXX."
+  heading_token_normalized: "CXXX"
+outputs:
+  french_raw_file: "letters/130-letter-cxxx/french.txt"
+  french_clean_file: "letters/130-letter-cxxx/french.clean.txt"
+  english_raw_file: "letters/130-letter-cxxx/english.txt"
+  english_clean_file: "letters/130-letter-cxxx/english.clean.txt"
+  comparison_file: "letters/130-letter-cxxx/comparison.md"

@@ -1,0 +1,42 @@
+letter_number: 23
+roman: XXIII
+slug: 023-letter-xxiii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 2226
+  line_end: 2261
+  heading: "LETTRE XXIII."
+  title: "USBEK A SON AMI IBBEN."
+  subtitle: ""
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 3833
+  line_end: 3884
+  heading: "Letter XXIII."
+  title: "USBEK TO HIS FRIEND IbBEN, AT SMYRNA."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XXIII."
+  heading_token_raw: "XXIII."
+  heading_token_normalized: "XXIII"
+outputs:
+  french_raw_file: "letters/023-letter-xxiii/french.txt"
+  french_clean_file: "letters/023-letter-xxiii/french.clean.txt"
+  english_raw_file: "letters/023-letter-xxiii/english.txt"
+  english_clean_file: "letters/023-letter-xxiii/english.clean.txt"
+  comparison_file: "letters/023-letter-xxiii/comparison.md"

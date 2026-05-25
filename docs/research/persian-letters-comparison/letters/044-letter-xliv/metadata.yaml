@@ -1,0 +1,42 @@
+letter_number: 44
+roman: XLIV
+slug: 044-letter-xliv
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 3378
+  line_end: 3424
+  heading: "LETTRE XLIV."
+  title: "USBEK A RHÉDI."
+  subtitle: "A Venise."
+english:
+  source_label: "English Volume I"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_1_archive_ocr.txt"
+  line_start: 5508
+  line_end: 5574
+  heading: "Letter XLIV."
+  title: "USBEK TO RHEDI, AT VENICE."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter XLIV."
+  heading_token_raw: "XLIV."
+  heading_token_normalized: "XLIV"
+outputs:
+  french_raw_file: "letters/044-letter-xliv/french.txt"
+  french_clean_file: "letters/044-letter-xliv/french.clean.txt"
+  english_raw_file: "letters/044-letter-xliv/english.txt"
+  english_clean_file: "letters/044-letter-xliv/english.clean.txt"
+  comparison_file: "letters/044-letter-xliv/comparison.md"

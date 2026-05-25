@@ -1,0 +1,42 @@
+letter_number: 79
+roman: LXXIX
+slug: 079-letter-lxxix
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome I"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_1_pg30268.txt"
+  line_start: 5872
+  line_end: 5943
+  heading: "LETTRE LXXIX."
+  title: "USBEK A RHÉDI."
+  subtitle: "A Venise."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 769
+  line_end: 869
+  heading: "Letter LXXIX."
+  title: "XJSBEK TO RHEDI, AT VENICE."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter LXXIX."
+  heading_token_raw: "LXXIX."
+  heading_token_normalized: "LXXIX"
+outputs:
+  french_raw_file: "letters/079-letter-lxxix/french.txt"
+  french_clean_file: "letters/079-letter-lxxix/french.clean.txt"
+  english_raw_file: "letters/079-letter-lxxix/english.txt"
+  english_clean_file: "letters/079-letter-lxxix/english.clean.txt"
+  comparison_file: "letters/079-letter-lxxix/comparison.md"

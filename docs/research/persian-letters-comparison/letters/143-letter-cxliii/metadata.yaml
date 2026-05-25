@@ -1,0 +1,42 @@
+letter_number: 143
+roman: CXLIII
+slug: 143-letter-cxliii
+status:
+  french_extracted: true
+  french_cleaned: true
+  english_extracted: true
+  english_cleaned: true
+  fresh_translation_started: false
+  comparison_notes_started: false
+alignment:
+  compare_by_letter_number: true
+  caution: "French and English physical volume boundaries differ; use letter number as the primary key."
+french:
+  source_label: "French Tome II"
+  source_kind: "Project Gutenberg"
+  source_file: "raw/french_tome_2_pg33856.txt"
+  line_start: 3985
+  line_end: 4234
+  heading: "LETTRE CXLIII."
+  title: "RICA A NATHANAEL LÉVI, MÉDECIN JUIF."
+  subtitle: "A Livourne."
+english:
+  source_label: "English Volume II"
+  source_kind: "Internet Archive OCR"
+  source_file: "raw/english_volume_2_archive_ocr.txt"
+  line_start: 7019
+  line_end: 7416
+  heading: "Letter CXLIII."
+  title: "Rica to Nathaniel Levi, Jewish Physician at Leghorn."
+  subtitle: ""
+  heading_match_type: "exact"
+  heading_match_similarity: 1.000
+  heading_line_raw: "Letter CXLIII."
+  heading_token_raw: "CXLIII."
+  heading_token_normalized: "CXLIII"
+outputs:
+  french_raw_file: "letters/143-letter-cxliii/french.txt"
+  french_clean_file: "letters/143-letter-cxliii/french.clean.txt"
+  english_raw_file: "letters/143-letter-cxliii/english.txt"
+  english_clean_file: "letters/143-letter-cxliii/english.clean.txt"
+  comparison_file: "letters/143-letter-cxliii/comparison.md"
